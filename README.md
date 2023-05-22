@@ -62,7 +62,7 @@ print("The coefficient of Correlation is  %0.4f"%r)
 
 
 # Output : 
-
+![image](https://github.com/PERARASU10/FindingMarginalDistributions/assets/118348589/3e7f5538-d7d7-4934-ac79-3103d591c261)
 
 # Results :
 
